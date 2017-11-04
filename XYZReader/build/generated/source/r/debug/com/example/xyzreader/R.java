@@ -2203,7 +2203,7 @@ containing a value of this type.
         public static final int theme_accent=0x7f0c004e;
         public static final int theme_primary=0x7f0c004f;
         public static final int theme_primary_dark=0x7f0c0050;
-        public static final int toolbar_background=0x7f0c0051;
+        public static final int toolbar_background_500=0x7f0c0051;
     }
     public static final class dimen {
         public static final int abc_action_bar_content_inset_material=0x7f080010;

@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Girish\\.android\\build-cache\\9ca6b78ebc192486da2dbef42229d6584a930a4f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader (1)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
         "source": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader (1)\\xyzreader\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Girish\\.android\\build-cache\\9ca6b78ebc192486da2dbef42229d6584a930a4f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\fab_state_list_anim.xml",
+        "source": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader\\xyzreader\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
     },
     {
         "merged": "C:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader (1)\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",

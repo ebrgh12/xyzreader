@@ -28,7 +28,7 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/toolbar_background</item>
+        <item name="colorPrimary">@color/toolbar_background_500</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark_700</item>
         <item name="colorAccent">@color/colorAscent_A200</item>
     </style>

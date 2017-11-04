@@ -23,9 +23,9 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#9ff5a3</color>
     <color name="text_back">#EF5350</color>
-    <color name="colorPrimaryDark_700">#7200ca</color>
-    <color name="colorAscent_A200">#ff4081</color>
+    <color name="colorPrimaryDark_700">#0288D1</color>
+    <color name="colorAscent_A200">#FF4081</color>
     <color name="colorTopBackground">#aa00ff</color>
 
-    <color name="toolbar_background">#64b5f6</color>
+    <color name="toolbar_background_500">#03A9F4</color>
 </resources>

@@ -411,7 +411,7 @@ int color text_back 0x7f0c004d
 int color theme_accent 0x7f0c004e
 int color theme_primary 0x7f0c004f
 int color theme_primary_dark 0x7f0c0050
-int color toolbar_background 0x7f0c0051
+int color toolbar_background_500 0x7f0c0051
 int dimen abc_action_bar_content_inset_material 0x7f080010
 int dimen abc_action_bar_default_height_material 0x7f080001
 int dimen abc_action_bar_default_padding_end_material 0x7f080011
