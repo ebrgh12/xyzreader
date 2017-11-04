@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Girish\.android\build-cache\9f7596cb489fcbfcf3cda903858a3c2d0f2a00a2\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_114fea599156a90d6fafdb2fd0ebf293c5771e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Girish\.android\build-cache\5d285c7e73ad899901a828bcf6f4eb59bbf0d9aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_084e687b6c0ad9e33f5d29b930bec1861512272b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_03cee1652d4bfbf3d51565a1792e927f115dff67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Girish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_3b42120d1d290596addfa082fe8400cd64f4049b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Girish\.android\build-cache\5ff67a365bc41f755b381b15fa6cec07c477bea8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_4c11b532fa55872492753f73b360095ceab6b37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Girish\.android\build-cache\9f7596cb489fcbfcf3cda903858a3c2d0f2a00a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\Girish\.AndroidStudio3.0\xyzreader (1)\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_dfcc9da54d18eeee3f5a852688512d0e6ffef076.jar" />
+    </item>
+
+</items>
