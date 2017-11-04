@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 04 13:06:42 PDT 2017
+#Sat Nov 04 13:11:20 PDT 2017
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\Girish\\.AndroidStudio3.0\\xyzreader\\xyzreader\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml
 118.set=ANDROID_RESOURCE

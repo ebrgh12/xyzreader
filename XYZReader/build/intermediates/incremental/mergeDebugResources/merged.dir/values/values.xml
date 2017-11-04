@@ -71,7 +71,7 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <color name="photo_placeholder">#e1bee7</color>
+    <color name="photo_placeholder">#4FC3F7</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
@@ -330,7 +330,7 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/toolbar_background_500</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark_700</item>
         <item name="colorAccent">@color/colorAscent_A200</item>
