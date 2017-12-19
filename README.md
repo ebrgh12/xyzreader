@@ -22,3 +22,4 @@ App provides sufficient space between text and surrounding elements.
 App uses images that are high quality, specific, and full bleed.
 
 App uses fonts that are either the Android defaults, are complementary, and aren't otherwise distracting.
+![alt tag](https://github.com/girish12ramesh/Joke-Telling/blob/master/joke.png)
